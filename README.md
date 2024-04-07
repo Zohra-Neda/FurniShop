@@ -136,9 +136,9 @@ You can deploy this project using:
 
 👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/Zohra-Neda)
-- Twitter: [@twitterhandle](https://twitter.com/ZohraNeda)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/zohra-neda)
+- GitHub: [@Zohra-Neda](https://github.com/Zohra-Neda)
+- Twitter: [@ZohraNeda](https://twitter.com/ZohraNeda)
+- LinkedIn: [zohra-neda](https://www.linkedin.com/in/zohra-neda)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
